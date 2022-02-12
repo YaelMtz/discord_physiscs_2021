@@ -6,7 +6,11 @@ import random
 
 client = discord.Client()
 
-swords = ["sad","triste", "morirme", "muy dificil"]
+swords = ["sad",
+"triste", 
+"morirme", 
+"muy dificil",
+"La facu se cae"]
 
 animos = [
    "Ánimo.",
